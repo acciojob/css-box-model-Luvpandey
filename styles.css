@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
- .box-model {
+.box-model {
       width: 300px;
       background-color: lightblue;
       border: 15px solid blue;
@@ -9,4 +9,5 @@
       margin: 20px;
       text-align: center;
       font-family: Arial, sans-serif;
+	box-sizing:border-box;
     }
